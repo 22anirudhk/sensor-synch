@@ -5,8 +5,7 @@ import math
 def lcm_float(a, b):
     """Calculate the LCM of two floats."""
 
-    # Find the GCD of the floats by multiplying by a large power of 10
-    # and converting to integers
+    # Find the GCD of the floats by multiplying by a large power of 10 and converting to integers
     multiplier = 10**max(len(str(a).split('.')[1]), len(str(b).split('.')[1]))
     a_int = int(a * multiplier)
     b_int = int(b * multiplier)
@@ -21,8 +20,7 @@ def lcm_float(a, b):
 
 # Based on https://www.geeksforgeeks.org/program-find-gcd-floating-point-numbers/
 def gcd_float(a, b):
-    # Find the GCD of the floats by multiplying by a large power of 10
-    # and converting to integers
+    # Find the GCD of the floats by multiplying by a large power of 10 and converting to integers
     multiplier = 10**max(len(str(a).split('.')[1]), len(str(b).split('.')[1]))
     a_int = int(a * multiplier)
     b_int = int(b * multiplier)
