@@ -1,0 +1,5 @@
+env/
+__pycache__
+synchronized_output/camera_frames
+trackpad_cam_data.txt
+.DS_Store

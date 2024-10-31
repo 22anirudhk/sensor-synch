@@ -1,0 +1,40 @@
+synch_timestamp, path_to_cam_0_frame, path_to_cam_1_frame
+2024-10-30 21:30:10.590283, No frame captured, No frame captured
+2024-10-30 21:30:10.863728, No frame captured, No frame captured
+2024-10-30 21:30:11.130168, No frame captured, No frame captured
+2024-10-30 21:30:11.397837, No frame captured, No frame captured
+2024-10-30 21:30:11.665665, No frame captured, No frame captured
+2024-10-30 21:30:11.930537, No frame captured, No frame captured
+2024-10-30 21:30:12.197069, No frame captured, synchronized_output/camera_frames/2024-10-30_21-30-12-197069_camera1.jpg
+2024-10-30 21:30:12.542782, synchronized_output/camera_frames/2024-10-30_21-30-12-542782_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-12-542782_camera1.jpg
+2024-10-30 21:30:12.861919, synchronized_output/camera_frames/2024-10-30_21-30-12-861919_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-12-861919_camera1.jpg
+2024-10-30 21:30:13.162605, synchronized_output/camera_frames/2024-10-30_21-30-13-162605_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-13-162605_camera1.jpg
+2024-10-30 21:30:13.496262, synchronized_output/camera_frames/2024-10-30_21-30-13-496262_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-13-496262_camera1.jpg
+2024-10-30 21:30:13.823102, synchronized_output/camera_frames/2024-10-30_21-30-13-823102_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-13-823102_camera1.jpg
+2024-10-30 21:30:14.141140, synchronized_output/camera_frames/2024-10-30_21-30-14-141140_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-14-141140_camera1.jpg
+2024-10-30 21:30:14.453680, synchronized_output/camera_frames/2024-10-30_21-30-14-453680_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-14-453680_camera1.jpg
+2024-10-30 21:30:14.771967, synchronized_output/camera_frames/2024-10-30_21-30-14-771967_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-14-771967_camera1.jpg
+2024-10-30 21:30:15.080531, synchronized_output/camera_frames/2024-10-30_21-30-15-080531_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-15-080531_camera1.jpg
+2024-10-30 21:30:15.389716, synchronized_output/camera_frames/2024-10-30_21-30-15-389716_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-15-389716_camera1.jpg
+2024-10-30 21:30:15.689816, synchronized_output/camera_frames/2024-10-30_21-30-15-689816_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-15-689816_camera1.jpg
+2024-10-30 21:30:16.007554, synchronized_output/camera_frames/2024-10-30_21-30-16-007554_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-16-007554_camera1.jpg
+2024-10-30 21:30:16.320712, synchronized_output/camera_frames/2024-10-30_21-30-16-320712_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-16-320712_camera1.jpg
+2024-10-30 21:30:16.636484, synchronized_output/camera_frames/2024-10-30_21-30-16-636484_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-16-636484_camera1.jpg
+2024-10-30 21:30:16.945146, synchronized_output/camera_frames/2024-10-30_21-30-16-945146_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-16-945146_camera1.jpg
+2024-10-30 21:30:17.267370, synchronized_output/camera_frames/2024-10-30_21-30-17-267370_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-17-267370_camera1.jpg
+2024-10-30 21:30:17.587745, synchronized_output/camera_frames/2024-10-30_21-30-17-587745_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-17-587745_camera1.jpg
+2024-10-30 21:30:17.914911, synchronized_output/camera_frames/2024-10-30_21-30-17-914911_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-17-914911_camera1.jpg
+2024-10-30 21:30:18.226291, synchronized_output/camera_frames/2024-10-30_21-30-18-226291_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-18-226291_camera1.jpg
+2024-10-30 21:30:18.539468, synchronized_output/camera_frames/2024-10-30_21-30-18-539468_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-18-539468_camera1.jpg
+2024-10-30 21:30:18.853711, synchronized_output/camera_frames/2024-10-30_21-30-18-853711_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-18-853711_camera1.jpg
+2024-10-30 21:30:19.172094, synchronized_output/camera_frames/2024-10-30_21-30-19-172094_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-19-172094_camera1.jpg
+2024-10-30 21:30:19.489025, synchronized_output/camera_frames/2024-10-30_21-30-19-489025_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-19-489025_camera1.jpg
+2024-10-30 21:30:19.804804, synchronized_output/camera_frames/2024-10-30_21-30-19-804804_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-19-804804_camera1.jpg
+2024-10-30 21:30:20.105469, synchronized_output/camera_frames/2024-10-30_21-30-20-105469_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-20-105469_camera1.jpg
+2024-10-30 21:30:20.419284, synchronized_output/camera_frames/2024-10-30_21-30-20-419284_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-20-419284_camera1.jpg
+2024-10-30 21:30:20.739115, synchronized_output/camera_frames/2024-10-30_21-30-20-739115_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-20-739115_camera1.jpg
+2024-10-30 21:30:21.061357, synchronized_output/camera_frames/2024-10-30_21-30-21-061357_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-21-061357_camera1.jpg
+2024-10-30 21:30:21.382545, synchronized_output/camera_frames/2024-10-30_21-30-21-382545_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-21-382545_camera1.jpg
+2024-10-30 21:30:21.700421, synchronized_output/camera_frames/2024-10-30_21-30-21-700421_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-21-700421_camera1.jpg
+2024-10-30 21:30:22.020945, synchronized_output/camera_frames/2024-10-30_21-30-22-020945_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-22-020945_camera1.jpg
+2024-10-30 21:30:22.338797, synchronized_output/camera_frames/2024-10-30_21-30-22-338797_camera0.jpg, synchronized_output/camera_frames/2024-10-30_21-30-22-338797_camera1.jpg
