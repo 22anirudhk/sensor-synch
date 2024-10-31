@@ -31,7 +31,7 @@ CAM_0_INTERVAL = 1.0
 CAM_1_INTERVAL = 0.25
 
 # set this to the LCM of the sampling intervals
-USE_LCM = False
+USE_LCM = True
 if USE_LCM:
     SYNC_SAMPLING_INTERVAL = lcm_float(CAM_0_INTERVAL, CAM_1_INTERVAL)
 else:
